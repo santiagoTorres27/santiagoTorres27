@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](images/banner2.png)
+![](images/banner.jpg)
 
 ## Hi there 👋
 
